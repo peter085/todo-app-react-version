@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+
+
+ .hero{
+    max-width: 72rem;
+    margin: auto;
+}
+
+.tittle{
+    color: rgb(147, 27, 27);
+    max-width: 20rem;
+    margin: auto;
+    font-weight: bolder;
+
+    font-family: 'Rubik'
+}
+#resolution{
+    border-radius: 15px;
+}
+
+#capture{
+    margin-top: 10px;
+    list-style: armenian;
+    
+    display: inline-block;
+    align-items: center;
+
+   
+    width: 250px;
+    box-shadow: 0 15px 25px rgba(225, 72, 72, 0.2);
+    height: auto;
+    border-radius: 10px;
+    backdrop-filter: blur(14px);
+    background-color: gray;
+    padding: 10px;
+    
+}
+
+.card{
+    
+    
+    box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+    background-color: rgba(0, 87, 16, 0.2);
+    color: white;
+    margin-top: 10px;
+    
+}
+
+.button1{
+    display: block;
+    text-align: left;
+    background-color:grey;
+    color: white;
+    border: none;
+    border-radius: 15px;
+}
+
+.form{
+    background-color: azure;
+    max-width: 20rem;
+    margin: auto;
+    border-radius: 15px;
+   
+
+}
+
+.wish{
+    max-width: 20rem;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.btn{
+    background-color:grey;
+    color: white;
+}
+
+.year{
+    font-weight: bolder;
+    color: black;
+    font-size: 55px;
+    max-width: 35rem;
+}
+
+.year1{
+    margin-top: 50px;
+}
+    
