@@ -14,8 +14,8 @@ features
 
 ### screenshots
 todo form
-![todo form](./build/images/Screenshot%20(10).png)
+![todo form](/images/Screenshot%20(10).png)
 
 outputimage
-![outpu](./build/images/output%20image.png)
+![outpu](/images/output%20image.png)
 
